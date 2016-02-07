@@ -1,4 +1,4 @@
-# Project Euler: Problem 5 Source Code. By Marino Soro. 6th Feb 2016.
+# Project Euler: Problem 5 Source Code. By MariinoS. 6th Feb 2016.
 
 # Task:   2520 is the smallest number that can be divided by each of the numbers
 #         from 1 to 10 without any remainder.

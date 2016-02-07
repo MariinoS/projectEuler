@@ -1,4 +1,4 @@
-# Project Euler: Problem 6 Source Code. By Marino Soro. 6th Feb 2016.
+# Project Euler: Problem 6 Source Code. By MariinoS. 6th Feb 2016.
 
 # Task:   The sum of the squares of the first ten natural numbers is,
 #                         1^2 + 2^2 + ... + 10^2 = 385

@@ -1,4 +1,4 @@
-# Project Euler: Problem 4 Source Code. By Marino Soro. 6th Feb 2016.
+# Project Euler: Problem 4 Source Code. By MariinoS. 6th Feb 2016.
 
 # Task:   A palindromic number reads the same both ways.
 #         The largest palindrome made from the product of
