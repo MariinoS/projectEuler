@@ -28,8 +28,8 @@ def devisible_by_range(a,b):
 print devisible_by_range(1,21)
 
 
-# Hier moet echt wel een simpelere manier voor bestaan..
-# Het script is werd voltooid in 55,194s.
-# Dit lijkt me vrij lang.
-# De code ziet er ook niet erg duidelijk uit.
-# Het antwoord = 232792560
+# I get the feeling there should be an easier way to do this..
+# The script finishes in 54.966s.
+# I'm thinking this is rather long.
+# The code looks a bit strange as well, hence the amount of comments.
+# The answer = 232792560
