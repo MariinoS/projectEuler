@@ -1,6 +1,7 @@
 # projectEuler. By MariinoS. Feb 7th 2016
 
 This is my journey in completing every problem on ProjectEuler.net
+I aim to do this using Python.
 
 In the master branch, I will put every working solution i created myself.
 
