@@ -1,4 +1,4 @@
-# Project Euler: Problem 5 Source Code. By MariinoS. 6th Feb 2016.
+# Project Euler: Problem 5 Source Code. By MariinoS. 7th Feb 2016.
 
 # Task:   2520 is the smallest number that can be divided by each of the numbers
 #         from 1 to 10 without any remainder.
@@ -28,4 +28,4 @@ print devisible_by_range(1,21)
 # This is a second solution I found.
 # However, I think there's both something good and bad about it.
 # The good part: The code looks more readable in my opinion.
-# The bad part: It takes 254.007s to finish opposing to the 55.195s in my first solution.
+# The bad part: It takes 254.007s to finish opposing to the 54.966s in my first solution.
