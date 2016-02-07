@@ -1,4 +1,4 @@
-# Project Euler: Problem 3 Source Code. By Marino Soro. 6th Feb 2016.
+# Project Euler: Problem 3 Source Code. By MariinoS. 6th Feb 2016.
 
 # Task:   The prime factors of 13195 are 5, 7, 13 and 29.
 #         What is the largest prime factor of the number 600851475143 ?
