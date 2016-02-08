@@ -6,8 +6,6 @@
 //
 // My Solution:
 
-import java.util.ArrayList;
-
 class problem1{
     public static void main (String[] args){
         int sum = 0;
